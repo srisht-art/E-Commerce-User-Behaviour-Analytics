@@ -1,5 +1,0 @@
-Placeholder for funnel_chart.png
-
-This file should contain a visualization of the user conversion funnel.
-To generate: Run the user_funnel_analysis.ipynb notebook and save the funnel visualization as funnel_chart.png
-
