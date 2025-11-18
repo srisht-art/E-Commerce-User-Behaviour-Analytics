@@ -1,0 +1,5 @@
+Placeholder for category_revenue.png
+
+This file should contain a bar chart showing revenue by product category.
+To generate: Run the EDA.ipynb notebook and save the category revenue chart as category_revenue.png
+

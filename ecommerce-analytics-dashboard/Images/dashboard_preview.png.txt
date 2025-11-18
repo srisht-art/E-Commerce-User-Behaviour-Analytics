@@ -1,0 +1,5 @@
+Placeholder for dashboard_preview.png
+
+This file should contain a screenshot of the Power BI dashboard.
+To generate: Take a screenshot of your Power BI dashboard and save it as dashboard_preview.png
+
